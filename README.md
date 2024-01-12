@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFx7038MyQ7MA/profile-displaybackgroundimage-shrink_200_800/0/1693331678772?e=2147483647&v=beta&t=1YedPiiJosyTz70xg-LOvj9favwXQ-ASqDZQYXrJnG4)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm ajay</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQE9vkfu8OrKkQ/profile-displaybackgroundimage-shrink_200_800/0/1705083831819?e=2147483647&v=beta&t=IPKEQ-3lVYqLxInFeRzlUV2j3ultdKPWDPuPzP9h9EI)](https://codegrills.in)
+<h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">Passionate Indian cyber sentinel and CTF maestro on a relentless quest to master the art of cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/ajay meena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay meena" height="30" width="40" /></a>
 <a href="https://fb.com/cyber tech ajju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyber tech ajju" height="30" width="40" /></a>
 <a href="https://instagram.com/theonly_ajju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theonly_ajju" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyber tech ajju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cybertechajju" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cyber tech ajju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyber tech ajju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,3 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&" alt="cyberajju" /></p>
 
+<script src="https://tryhackme.com/badge/1039750"></script>
