@@ -1,4 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQE9vkfu8OrKkQ/profile-displaybackgroundimage-shrink_200_800/0/1705083831819?e=2147483647&v=beta&t=IPKEQ-3lVYqLxInFeRzlUV2j3ultdKPWDPuPzP9h9EI)](https://codegrills.in)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ajjubhai94.png" alt="TryHackMe">
 <h3 align="center">Passionate Indian cyber sentinel and CTF maestro on a relentless quest to master the art of cybersecurity.</h3>
@@ -47,3 +50,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&" alt="cyberajju" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks!&height=100&section=footer"/>
+</p>
