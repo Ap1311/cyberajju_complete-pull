@@ -1,7 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQE9vkfu8OrKkQ/profile-displaybackgroundimage-shrink_200_800/0/1705083831819?e=2147483647&v=beta&t=IPKEQ-3lVYqLxInFeRzlUV2j3ultdKPWDPuPzP9h9EI)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<script src="https://tryhackme.com/badge/1039750"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ajjubhai94.png" alt="TryHackMe">
 <h3 align="center">Passionate Indian cyber sentinel and CTF maestro on a relentless quest to master the art of cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
