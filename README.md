@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ajjubhai94.png" alt="Your Image Badge" />
+
+![image](https://github.com/user-attachments/assets/cacbc45e-540f-4709-8f35-87866ea4dd4a)
+
+
 
 <h3 align="center">Passionate Indian cyber sentinel, CTF maestro, and bug hunter 🐞 on a relentless quest to master the art of cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
