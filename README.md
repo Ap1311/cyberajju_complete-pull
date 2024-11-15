@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1039750" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ajjubhai94.png" alt="Your Image Badge" />
+
 <h3 align="center">Passionate Indian cyber sentinel, CTF maestro, and bug hunter 🐞 on a relentless quest to master the art of cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
