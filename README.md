@@ -110,9 +110,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberajju&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
+
+
 <p align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreuse-dark&hide_border=true&stroke=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00" />
+   <img width="600" src="
+https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreuse-dark&hide_border=true&stroke=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00" />
 </p>
+
 
 <!-- ACTIVITY GRAPH with enhanced animation -->
 <p align="center">
