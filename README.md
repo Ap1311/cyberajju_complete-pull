@@ -167,8 +167,3 @@ https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreus
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=100&lines=KEEP+LEARNING%2C+KEEP+HACKING;THE+QUIETER+YOU+BECOME%2C+THE+MORE+YOU+ARE+ABLE+TO+HEAR;HACK+THE+PLANET;IT'S+NOT+A+BUG%2C+IT'S+A+FEATURE!" alt="Typing SVG" /></a>
 </p>
-
-<!-- GLITCH EFFECT ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
